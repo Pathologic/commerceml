@@ -1,5 +1,5 @@
 {
-    "name": "gillbeits/commerceml",
+    "name": "pathologic/commerceml",
     "type": "library",
     "description": "Library for CommerceML 2.0 parser",
     "keywords": ["parser", "commerceml", "xml"],
