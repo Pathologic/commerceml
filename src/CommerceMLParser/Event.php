@@ -8,7 +8,7 @@
 
 namespace CommerceMLParser;
 
-use Symfony\Component\EventDispatcher\Event as BaseClass;
+use Symfony\Contracts\EventDispatcher\Event as BaseClass;
 
 /**
  * Class Event
